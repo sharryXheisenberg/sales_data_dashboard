@@ -21,7 +21,7 @@ A modern, responsive admin dashboard built with React, TypeScript, and Tailwind 
 - React Loading Skeleton
 
 ## 🚀 Live Project
-Check out the live version of the app here: [smokyDashboard](https://dash-board-smoky.vercel.app/)  
+Check out the live version of the app here: [YourDashboard](https://dash-board-smoky.vercel.app/)  
 Explore the features and experience the seamless interface directly in your browser!
 
 
@@ -99,7 +99,7 @@ modern-dashboard/
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any queries or suggestions, feel free to reach out via [GitHub Issues](issues - https://github.com/sharryXheisenberg/sales_data_dashboard/issues)
+For any queries or suggestions, feel free to reach out via [GitHub Issues](https://github.com/sharryXheisenberg/sales_data_dashboard/issues)
 
 ## 👥 Contributing
 
