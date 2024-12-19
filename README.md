@@ -1,4 +1,4 @@
-# Modern Dashboard
+# PrimeDashboard
 
 A modern, responsive admin dashboard built with React, TypeScript, and Tailwind CSS. Features real-time data updates, interactive charts, and a clean, professional design.
 
@@ -20,11 +20,16 @@ A modern, responsive admin dashboard built with React, TypeScript, and Tailwind 
 - Lucide Icons
 - React Loading Skeleton
 
+## 🚀 Live Project
+Check out the live version of the app here: [smokyDashboard](https://dash-board-smoky.vercel.app/)  
+Explore the features and experience the seamless interface directly in your browser!
+
+
 ## 📦 Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/modern-dashboard.git
+   git clone https://github.com/sharryXheisenberg/sales_data_dashboard.git
    ```
 
 2. Navigate to the project directory:
@@ -90,9 +95,11 @@ modern-dashboard/
 
 2. The build files will be in the `dist` directory
 
-## 📄 License
+## License
+This project is licensed under the [MIT License](LICENSE).
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Contact
+For any queries or suggestions, feel free to reach out via [GitHub Issues](issues - https://github.com/sharryXheisenberg/sales_data_dashboard/issues)
 
 ## 👥 Contributing
 
