@@ -1,4 +1,4 @@
-# PrimeDashboard
+# YourDashboard
 
 A modern, responsive admin dashboard built with React, TypeScript, and Tailwind CSS. Features real-time data updates, interactive charts, and a clean, professional design.
 
